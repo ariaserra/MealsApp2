@@ -1,6 +1,6 @@
 import React from "react";
-import { View, Text, StyleSheet, Dimensions } from "react-native";
-import { FlatList, TouchableOpacity } from "react-native-gesture-handler";
+import { StyleSheet } from "react-native";
+import { FlatList } from "react-native-gesture-handler";
 import { HeaderButtons, Item } from "react-navigation-header-buttons";
 
 import { CATEGORIES } from "../data/dummy-data";
